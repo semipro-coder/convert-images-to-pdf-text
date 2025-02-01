@@ -1,4 +1,4 @@
-```markdown
+
 # OCR Convert and Organize
 
 This repository contains a Bash script that processes images in a given folder by converting them into OCR searchable PDFs and extracting their text into TXT files. After processing, the script organizes the original images, PDFs, and text files into dedicated subfolders.
@@ -92,4 +92,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
-```
+
