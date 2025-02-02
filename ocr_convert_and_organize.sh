@@ -4,7 +4,7 @@
 # This script converts each image in the given folder into an OCR searchable PDF,
 # then extracts text from that PDF into a TXT file.
 # After processing, it organizes the files into subfolders:
-#   - Original images (png, jpg, jpeg, bmp, tiff, heic) → png/
+#   - Original images (png, jpg, jpeg, bmp, tiff, heic) → img/
 #   - PDF files → pdf/
 #   - TXT files → txt/
 #
